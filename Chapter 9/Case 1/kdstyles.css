@@ -1,0 +1,21 @@
+/*
+   Kelsey's Diner Style Sheet
+
+   
+
+   Filename:         kdstyles.css
+   Supporting Files: 
+
+*/
+
+img {
+   border-width: 0px;
+}
+
+body {
+   background-image: url(tan.jpg);
+}
+
+body h1, body h5 {
+   text-align: center;
+}
